@@ -13,11 +13,11 @@ This project is licensed under the MIT License - see the [LICENSE.md](https://gi
 
 ## Credits
 
-Font: https://www.dafont.com/it/vcr-osd-mono.font
-Assets: https://www.spriters-resource.com/nes/supermariobros/
-Sounds and Music: https://www.dafont.com/it/vcr-osd-mono.font
-                  https://www.myinstants.com/instant/mario-jump/
-                  https://downloads.khinsider.com/gamesoundtracks/album/super-mario-bros
+* Font: https://www.dafont.com/it/vcr-osd-mono.font
+* Assets: https://www.spriters-resource.com/nes/supermariobros/
+* Sounds and Music: https://www.dafont.com/it/vcr-osd-mono.font
+                    https://www.myinstants.com/instant/mario-jump/
+                    https://downloads.khinsider.com/gamesoundtracks/album/super-mario-bros
 
  ## Authors
  
